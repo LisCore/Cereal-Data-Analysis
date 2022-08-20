@@ -1,0 +1,27 @@
+name	calories	sugars	rating	
+100% Bran;70;6;68.402973
+100% Natural Bran;120;8;33.983679
+All-Bran;70;5;59.425505
+All-Bran with Extra Fiber;50;0;93.704912
+Almond Delight;110;8;34.384843
+Apple Cinnamon Cheerios;110;10;29.509541
+Apple Jacks;110;14;33.174094
+Basic 4;130;8;37.038562	
+Bran Chex;90;6;49.120253
+Bran Flakes;90;5;53.313813
+Cap'n'Crunch;120;12;18.042851
+Cheerios;110;1;50.764999
+Cinnamon Toast Crunch;120;9;19.823573
+Fruitful Bran;120;12;41.015492
+Fruity Pebbles;110;12;28.025765
+Golden Crisp;100;15;35.252444
+Golden Grahams;110;9;23.804043
+Grape Nuts Flakes;100;5;52.076897
+Grape-Nuts;110;3;53.371007
+Great Grains Pecan;120;4;45.811716
+Honey Graham Ohs;120;11;21.871292
+Honey Nut Cheerios;110;10;31.072217
+Honey-comb;110;11;28.742414
+Just Right Crunchy  Nuggets;110;6;36.523683
+Just Right Fruit & Nut;140;9;36.471512
+Kix;110;3;39.241114
